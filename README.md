@@ -57,8 +57,6 @@ This project is built using a combination of modern technologies to ensure effic
     * Installation on Different Operating Systems: The installation process may vary slightly depending on whether you are on Windows, Mac or Linux.
     * Security: Be sure to follow security best practices, such as using strong passwords and limiting database user privileges.
 
-
-
 5. **Start the backend server:**
     ```
     cd backend
